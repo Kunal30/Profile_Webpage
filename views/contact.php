@@ -10,7 +10,7 @@ require_once('/opt/lampp/htdocs/Profile_Website_MVC/includes/helpers.php');
     <h2 class="fontAA">Contact Me</h2>    
     <p class="fontBB">Mobile Number: +91-8141410888</p>    
     <p class="fontBB">Personal Email-Address: kunalvsuthar@gmail.com</p>  
-    <p class="fontBB">Professional Email-Address: 201401131@daiict.ac.in</p>
+    <p class="fontBB">Professional Email Address: 201401131@daiict.ac.in</p>
     
    
     
